@@ -1,4 +1,4 @@
-# Samrt-Farming-System-Uisng-ML-Algorithms
+# Smart-Farming-System-Uisng-ML-Algorithms
 
 The objective of the project is to develop and implement a smart farming system utilizing 
 machine learning technologies to optimize agricultural practices and enhance the profitability 
